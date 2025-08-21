@@ -6,6 +6,4 @@
 - I am from Chicago, Illinois. Go Cubs!
 -Some of my favorite foods include anything mexican and any type of steak.
 - Contact Info- {mpyoung2@cps.edu} 
-- 
-- 
-- 
+ 
