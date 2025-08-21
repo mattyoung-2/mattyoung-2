@@ -1,16 +1,11 @@
-## Hi there 👋
+## Whats up! 👋
 
-<!--
-**mattyoung-2/mattyoung-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-My name is Matt.
+- I am a senior student at Lane Tech High School.
+- Some of my hobbies inlude playing sports specifically baseball, listening to music, traveling and going to the gym. 
+- I am from Chicago, Illinois. Go Cubs!
+-Some of my favorite foods include anything mexican and any type of steak.
+- Contact Info- {mpyoung2@cps.edu} 
+- 
+- 
+- 
